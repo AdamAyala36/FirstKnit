@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Adam Ayala"
+author: "Adam Ayala Mibest"
 output: 
   html_document:
     number_sections: true
