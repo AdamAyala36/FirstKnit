@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Adam Ayala Mibest"
+author: "Adam Ayala"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ get to know you and so you can get practice submitting an assignment in Canvas. 
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  I attended high school at Lancaster High School, I was able to graduate. Math is easier for me as it is more simple and straight to the point. English needs anaylysis and requires opinion, math is absolute. I always did best in math. 
+  I attended the high school called Lancaster High School. Lancaster high school had a lot of new things being added to it when I was attending. So much so that all my teachers were calling us lucky since they would have never dreamed of having what we had. I was able to graduate the year 2022 as a valedictorian. I also got a necklace for the bio medical pathway that was available at the school, which congratulated me for 4 years of staying in the program. Math is easier for me as it is more simple and straight to the point. English needs analysis and requires opinion, math is absolute. Due to these differences math was easier for me to grasp since their was really only one way to learn, of course there is multiple ways to solve a problem but that way has to be the same all the time. English at times seemed tedious since I had to find specific reasons or just reasons my teacher or professor agrees with and write that.  
 
      
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  I have a windows computer that may be 8 years old but works amazingly. The reason for this is because it is my brothers old gaming computer that was top of the line at the time of buying it and for me it runs beautifully. However some games do run slowly which is where the age shows. I would give myself a 3 since I know very little computer lingo or even how to properly maintain my computer. I know words here and there since I have seen videos that make fun of people who mess up with a computer and I watch and learn so I don't do that. But it is more surface level knowledge like what Ram is. I have wifi at my house as without it I wouldn't be able to game, but on a serious note wifi seems essential at this point. The wifi in  my house is very strong since 5 different people at the same time are online forcing us to buy a stronger wifi. Maybe my family is just acting spoiled but we do have limits.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  The name I prefer being called is by my legal first name which is Adam. Some of my buddies call me names such as Ayaya, making fun of my last name because they couldn't say it. Other names include Diego because someone said I look like a Diego. For the people in class I would stick with Adam but if I had to change it I would feel embarressed but I'll say Silver since it what I call myself online.
    
  
 
